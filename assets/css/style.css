@@ -5282,9 +5282,9 @@ input.main-search-input::placeholder {
 
 
 .process__image {
-    width: 150px;       /* fixed width */
-    height: 100px;      /* fixed height */
-    margin: 0 auto;     /* center inside column */
+    width: 150px;       
+    height: 100px;      
+    margin: 0 auto;     
     display: flex;
     align-items: center;
     justify-content: center;
@@ -5300,3 +5300,7 @@ input.main-search-input::placeholder {
     object-fit: contain; /* keeps aspect ratio */
 }
 
+.pace,
+.pace .pace-progress {
+  display: none !important;
+}
