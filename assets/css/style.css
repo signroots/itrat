@@ -3457,7 +3457,7 @@ input.main-search-input::placeholder {
 .about-area, .about-two-area {
   overflow: hidden;
   position: relative;
-  padding-bottom: 240px;
+  padding-bottom: 120px;
 }
 .about__shape {
   position: absolute;
